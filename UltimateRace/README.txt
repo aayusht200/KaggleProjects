@@ -22,3 +22,6 @@ This project is inspired by the "Data Analyst Portfolio Project (Exploratory Dat
 
 ## Contact
 For questions or inquiries, please contact Aayush Trivedi at aayush.t200@gmail.com.
+
+## Data Source
+The data used in this project is sourced from [The Big Dataset of Ultra-Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running?resource=download), available on Kaggle. This dataset contains a comprehensive collection of over 7 million race records registered between 1798 and 2022.
