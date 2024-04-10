@@ -1,0 +1,25 @@
+# Unicorn Companies Dataset Analysis
+
+## Overview
+This repository contains the code and data files for the analysis of unicorn companies dataset. The dataset comprises information about private companies with valuations exceeding $1 billion as of March 2022.
+
+## Dataset Source
+The dataset was sourced from Kaggle and can be accessed through the following link: [Unicorn Companies Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/unicorn-companies)
+
+## Project Structure
+- `README.md`: Provides an overview of the project, dataset, and analysis.
+- `unicorn_analysis.ipynb`: Jupyter Notebook containing the Python code for data analysis.
+- `Unicorn_Companies.csv`: CSV file containing the unicorn companies dataset.
+
+## Analysis Highlights
+- Exploratory Data Analysis (EDA):** Analysis of the distribution of unicorn companies across industries, regions, and founding years.
+- Time-to-Unicorn Analysis:** Examination of the time taken for companies to achieve unicorn status from their founding dates.
+- Valuation Analysis:** Investigation of valuation distribution among unicorn companies, both in terms of total valuation per industry and individual company valuations.
+
+## Dependencies
+- Python 3.x
+- pandas
+- matplotlib
+
+## Contributors
+- [Aayush Trivedi](https://github.com/aayusht200)
