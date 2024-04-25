@@ -1,14 +1,14 @@
-# Project Report: Unicorn Companies Dataset Analysis
+Project Report: Unicorn Companies Dataset Analysis
 
-## Overview
+ Overview
 This project explores the landscape of unicorn companies—private firms valued over $1 billion as of March 2022. The analysis aims to uncover insights into the characteristics, trends, and dynamics of these high-value enterprises.
 
-## Key Analysis Highlights
-- **Exploratory Data Analysis (EDA):** We investigated the distribution of unicorn companies across industries and founding years. A histogram plot was created to visualize the distribution of companies based on their founding year.
-- **Time-to-Unicorn Analysis:** Calculations were made to determine the number of years it took for each company to achieve unicorn status from its founding date.
-- **Join Analysis in 2021:** A subset of companies that joined the unicorn club in 2021 was analyzed. Weekly join counts were visualized using a bar plot to identify trends.
+ Key Analysis Highlights
+- Exploratory Data Analysis (EDA): We investigated the distribution of unicorn companies across industries and founding years. A histogram plot was created to visualize the distribution of companies based on their founding year.
+- Time-to-Unicorn Analysis: Calculations were made to determine the number of years it took for each company to achieve unicorn status from its founding date.
+- Join Analysis in 2021: A subset of companies that joined the unicorn club in 2021 was analyzed. Weekly join counts were visualized using a bar plot to identify trends.
 
-## Technologies Used
+ Technologies Used
 - Python Programming
 - Pandas
 - NumPy
@@ -16,14 +16,14 @@ This project explores the landscape of unicorn companies—private firms valued 
 - Seaborn
 - Matplotlib
 
-## Visualizations
+ Visualizations
 - Histogram plot showing the distribution of companies based on their founding year.
 - Bar plot illustrating the weekly join counts of companies that joined the unicorn club in 2021.
 
-## Conclusion
+ Conclusion
 Through our analysis, we gained valuable insights into the landscape of unicorn companies. These insights can inform investment decisions, entrepreneurial pursuits, and strategic planning. By leveraging data-driven approaches, we aim to contribute to a deeper understanding of the factors driving the success of unicorn companies.
 
-## Next Steps
+ Next Steps
 - Perform longitudinal analyses to track the evolution of unicorn companies over time.
 - Incorporate additional datasets to enrich the analysis.
 - Explore predictive modeling to forecast future trends in the unicorn landscape.
